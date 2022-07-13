@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T05:02:40</date>
+  <millis>1657677760074</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge.core</logger>
+  <level>INFO</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=403, Message=Please login to contunue }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T05:03:45</date>
+  <millis>1657677825579</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge.core</logger>
+  <level>INFO</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=403, Message=Please login to contunue }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T05:04:14</date>
+  <millis>1657677854712</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge.core</logger>
+  <level>INFO</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>19</thread>
+  <message>{code=403, Message=Please login to contunue }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T05:20:35</date>
+  <millis>1657678835833</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge.core</logger>
+  <level>INFO</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>19</thread>
+  <message>{code=403, Message=Please login to contunue }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T05:21:16</date>
+  <millis>1657678876273</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge.core</logger>
+  <level>INFO</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=403, Message=Please login to contunue }</message>
+</record>
+<record>
+  <date>2022-07-13T05:21:20</date>
+  <millis>1657678880441</millis>
+  <sequence>1</sequence>
+  <logger>james.dtonechallenge.core</logger>
+  <level>INFO</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>12</thread>
+  <message>{code=403, Message=Please login to contunue }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T05:23:52</date>
+  <millis>1657679032700</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge.core</logger>
+  <level>INFO</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=403, Message=Please login to contunue }</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T06:37:51</date>
+  <millis>1657683471346</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge</logger>
+  <level>SEVERE</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>12</thread>
+  <message>{code=500, Message=An error occured please try again later  }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T06:49:01</date>
+  <millis>1657684141507</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge</logger>
+  <level>SEVERE</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=500, Message=An error occured please try again later  }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T06:50:25</date>
+  <millis>1657684225200</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge</logger>
+  <level>SEVERE</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=500, Message=An error occured please try again later  }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T06:51:08</date>
+  <millis>1657684268325</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge</logger>
+  <level>SEVERE</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=500, Message=An error occured please try again later  }</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-13T06:53:07</date>
+  <millis>1657684387343</millis>
+  <sequence>0</sequence>
+  <logger>james.dtonechallenge</logger>
+  <level>SEVERE</level>
+  <class>james.dtonechallenge.utils.Utility</class>
+  <method>writeLogs</method>
+  <thread>16</thread>
+  <message>{code=500, Message=An error occured please try again later  }</message>
+</record>
+</log>
